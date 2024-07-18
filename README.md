@@ -16,6 +16,8 @@ The projects are designed to help you visualize training and evaluation processe
 
 The primary tools and libraries used in these projects include Python, numpy, pandas, scikit-learn, matplotlib, seaborn, tensorflow, keras, gym, and pygame. Google Colab is used for running and sharing notebooks, providing an accessible platform for collaborative work. GitHub is employed for version control, enabling efficient management and sharing of code among contributors.
 
-# 🚀Contribution Guidelines and Acknowledgements
+# 🤝Contribution Guidelines and Acknowledgements
 
 To contribute to this repository, fork the repository, clone your fork, create a feature branch, commit your changes, push to GitHub, and submit a pull request. This repository is licensed under the MIT License. Special thanks to scikit-learn, Google Colab, TensorFlow, and OpenAI Gym for their resources and support. This README serves as a comprehensive guide for anyone interested in understanding, contributing to, or using the course projects. Ensure all links and information are current before finalizing the document.
+
+This repository is primarily for educational purposes and personal reference. If you would like to contribute to the projects, your suggestions for improvement or corrections are welcome. Please feel free to submit a pull request or open an issue.
