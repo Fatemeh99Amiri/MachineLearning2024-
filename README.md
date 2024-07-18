@@ -1,7 +1,5 @@
 # MachineLearning2024
 
-# Machine Learning Course Projects - Spring 1403
-
 ## Overview
 
 Welcome to the Machine Learning course projects repository for the Spring 1403 semester at Khaje Nasir Toosi University of Technology. This repository includes all mini-projects assigned throughout the semester, each designed to deepen your understanding and expertise in machine learning, data analysis, and algorithm development. The repository contains the code, datasets, and documentation for four mini-projects, each focusing on different machine learning areas such as supervised learning, reinforcement learning, and neural network implementations.
