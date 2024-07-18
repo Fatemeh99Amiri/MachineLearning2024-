@@ -1,1 +1,7 @@
-کد ها و گزارش مربوط به مینی پروژه اول درس یادگیری ماشین 
+## Training and Evaluation of Classifiers
+
+Welcome to the Mini Project 1 repository, which centers on the training and evaluation of various machine learning classifiers and regression models using synthetic and real-world datasets. The project comprises three main tasks, each designed to explore different aspects of machine learning. In the first task, a synthetic dataset with three features and four classes was generated using the sklearn.datasets module, and a linear classifier was implemented and evaluated with different hyperparameters. The decision boundaries and classification results were visualized for better understanding. The second task involved extending the CWRU Bearing dataset by adding more fault classes, performing feature extraction, and preparing data for training MLP models with different architectures. K-Fold and Stratified K-Fold cross-validation methods were implemented to ensure robust evaluation.
+
+## Regression Analysis and Dataset Information
+
+The third task focused on regression analysis using the Weather in Szeged dataset. The relationship between temperature and humidity was analyzed, and various regression techniques, including Least Squares (LS), Regularized Least Squares (RLS), and Weighted Least Squares (WLS), were applied to predict temperature. The performance of these regression models was compared to identify the best approach. The project utilizes three datasets: a synthetic dataset generated with sklearn.datasets for classification tasks, the CWRU Bearing dataset for fault diagnosis and condition monitoring, and a decade-long weather dataset providing attributes related to temperature and humidity for regression tasks.
